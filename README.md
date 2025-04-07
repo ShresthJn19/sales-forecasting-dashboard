@@ -1,4 +1,4 @@
-# 📈 Sales Forecasting Dashboard – Time Series Project
+# 📈 Retail Sales Forecasting – Time Series Project
 
 Forecasting monthly retail sales using Prophet to support inventory planning and executive reporting. The project combines time series modeling with business impact simulation and dashboard-ready exports for Tableau.
 
