@@ -1,0 +1,541 @@
+date,store,department,sales
+2018-01-01,Boston Central,Groceries,33571
+2018-02-01,Boston Central,Groceries,37228
+2018-03-01,Boston Central,Groceries,37923
+2018-04-01,Boston Central,Groceries,40121
+2018-05-01,Boston Central,Groceries,37615
+2018-06-01,Boston Central,Groceries,38327
+2018-07-01,Boston Central,Groceries,38744
+2018-08-01,Boston Central,Groceries,38443
+2018-09-01,Boston Central,Groceries,35357
+2018-10-01,Boston Central,Groceries,42652
+2018-11-01,Boston Central,Groceries,42426
+2018-12-01,Boston Central,Groceries,37661
+2019-01-01,Boston Central,Groceries,39642
+2019-02-01,Boston Central,Groceries,38684
+2019-03-01,Boston Central,Groceries,38321
+2019-04-01,Boston Central,Groceries,34907
+2019-05-01,Boston Central,Groceries,37300
+2019-06-01,Boston Central,Groceries,39057
+2019-07-01,Boston Central,Groceries,42229
+2019-08-01,Boston Central,Groceries,37115
+2019-09-01,Boston Central,Groceries,35773
+2019-10-01,Boston Central,Groceries,33707
+2019-11-01,Boston Central,Groceries,32774
+2019-12-01,Boston Central,Groceries,35152
+2020-01-01,Boston Central,Groceries,33186
+2020-02-01,Boston Central,Groceries,30761
+2020-03-01,Boston Central,Groceries,29513
+2020-04-01,Boston Central,Groceries,30865
+2020-05-01,Boston Central,Groceries,29871
+2020-06-01,Boston Central,Groceries,30800
+2020-07-01,Boston Central,Groceries,30352
+2020-08-01,Boston Central,Groceries,31717
+2020-09-01,Boston Central,Groceries,28658
+2020-10-01,Boston Central,Groceries,33740
+2020-11-01,Boston Central,Groceries,37589
+2020-12-01,Boston Central,Groceries,34991
+2021-01-01,Boston Central,Groceries,33694
+2021-02-01,Boston Central,Groceries,35738
+2021-03-01,Boston Central,Groceries,32720
+2021-04-01,Boston Central,Groceries,32362
+2021-05-01,Boston Central,Groceries,37874
+2021-06-01,Boston Central,Groceries,36034
+2021-07-01,Boston Central,Groceries,35168
+2021-08-01,Boston Central,Groceries,36798
+2021-09-01,Boston Central,Groceries,36925
+2021-10-01,Boston Central,Groceries,39997
+2021-11-01,Boston Central,Groceries,41333
+2021-12-01,Boston Central,Groceries,42274
+2022-01-01,Boston Central,Groceries,42497
+2022-02-01,Boston Central,Groceries,42303
+2022-03-01,Boston Central,Groceries,40336
+2022-04-01,Boston Central,Groceries,39335
+2022-05-01,Boston Central,Groceries,37275
+2022-06-01,Boston Central,Groceries,42086
+2022-07-01,Boston Central,Groceries,39022
+2022-08-01,Boston Central,Groceries,37956
+2022-09-01,Boston Central,Groceries,40460
+2022-10-01,Boston Central,Groceries,35569
+2022-11-01,Boston Central,Groceries,38260
+2022-12-01,Boston Central,Groceries,36388
+2018-01-01,Boston Central,Electronics,25710
+2018-02-01,Boston Central,Electronics,25689
+2018-03-01,Boston Central,Electronics,27562
+2018-04-01,Boston Central,Electronics,28834
+2018-05-01,Boston Central,Electronics,26478
+2018-06-01,Boston Central,Electronics,26950
+2018-07-01,Boston Central,Electronics,28846
+2018-08-01,Boston Central,Electronics,27621
+2018-09-01,Boston Central,Electronics,30144
+2018-10-01,Boston Central,Electronics,29785
+2018-11-01,Boston Central,Electronics,35321
+2018-12-01,Boston Central,Electronics,27919
+2019-01-01,Boston Central,Electronics,28195
+2019-02-01,Boston Central,Electronics,30278
+2019-03-01,Boston Central,Electronics,30734
+2019-04-01,Boston Central,Electronics,33022
+2019-05-01,Boston Central,Electronics,31066
+2019-06-01,Boston Central,Electronics,28770
+2019-07-01,Boston Central,Electronics,26958
+2019-08-01,Boston Central,Electronics,27381
+2019-09-01,Boston Central,Electronics,23569
+2019-10-01,Boston Central,Electronics,23367
+2019-11-01,Boston Central,Electronics,20270
+2019-12-01,Boston Central,Electronics,22060
+2020-01-01,Boston Central,Electronics,23790
+2020-02-01,Boston Central,Electronics,20874
+2020-03-01,Boston Central,Electronics,19269
+2020-04-01,Boston Central,Electronics,19730
+2020-05-01,Boston Central,Electronics,21647
+2020-06-01,Boston Central,Electronics,19560
+2020-07-01,Boston Central,Electronics,21772
+2020-08-01,Boston Central,Electronics,17576
+2020-09-01,Boston Central,Electronics,18709
+2020-10-01,Boston Central,Electronics,19804
+2020-11-01,Boston Central,Electronics,18673
+2020-12-01,Boston Central,Electronics,27752
+2021-01-01,Boston Central,Electronics,20325
+2021-02-01,Boston Central,Electronics,25065
+2021-03-01,Boston Central,Electronics,22667
+2021-04-01,Boston Central,Electronics,23762
+2021-05-01,Boston Central,Electronics,26190
+2021-06-01,Boston Central,Electronics,23454
+2021-07-01,Boston Central,Electronics,25797
+2021-08-01,Boston Central,Electronics,27527
+2021-09-01,Boston Central,Electronics,26756
+2021-10-01,Boston Central,Electronics,27344
+2021-11-01,Boston Central,Electronics,31603
+2021-12-01,Boston Central,Electronics,31769
+2022-01-01,Boston Central,Electronics,29086
+2022-02-01,Boston Central,Electronics,29886
+2022-03-01,Boston Central,Electronics,32486
+2022-04-01,Boston Central,Electronics,26990
+2022-05-01,Boston Central,Electronics,30229
+2022-06-01,Boston Central,Electronics,33097
+2022-07-01,Boston Central,Electronics,32568
+2022-08-01,Boston Central,Electronics,24158
+2022-09-01,Boston Central,Electronics,25836
+2022-10-01,Boston Central,Electronics,26964
+2022-11-01,Boston Central,Electronics,23208
+2022-12-01,Boston Central,Electronics,23720
+2018-01-01,Boston Central,Home & Living,27195
+2018-02-01,Boston Central,Home & Living,22381
+2018-03-01,Boston Central,Home & Living,27133
+2018-04-01,Boston Central,Home & Living,31075
+2018-05-01,Boston Central,Home & Living,25390
+2018-06-01,Boston Central,Home & Living,26839
+2018-07-01,Boston Central,Home & Living,28680
+2018-08-01,Boston Central,Home & Living,27879
+2018-09-01,Boston Central,Home & Living,26075
+2018-10-01,Boston Central,Home & Living,29482
+2018-11-01,Boston Central,Home & Living,27263
+2018-12-01,Boston Central,Home & Living,30250
+2019-01-01,Boston Central,Home & Living,27254
+2019-02-01,Boston Central,Home & Living,31863
+2019-03-01,Boston Central,Home & Living,26755
+2019-04-01,Boston Central,Home & Living,27136
+2019-05-01,Boston Central,Home & Living,28780
+2019-06-01,Boston Central,Home & Living,23993
+2019-07-01,Boston Central,Home & Living,26159
+2019-08-01,Boston Central,Home & Living,27535
+2019-09-01,Boston Central,Home & Living,20908
+2019-10-01,Boston Central,Home & Living,23701
+2019-11-01,Boston Central,Home & Living,23088
+2019-12-01,Boston Central,Home & Living,23414
+2020-01-01,Boston Central,Home & Living,18724
+2020-02-01,Boston Central,Home & Living,17985
+2020-03-01,Boston Central,Home & Living,21194
+2020-04-01,Boston Central,Home & Living,20376
+2020-05-01,Boston Central,Home & Living,20033
+2020-06-01,Boston Central,Home & Living,20098
+2020-07-01,Boston Central,Home & Living,18045
+2020-08-01,Boston Central,Home & Living,19996
+2020-09-01,Boston Central,Home & Living,20369
+2020-10-01,Boston Central,Home & Living,18722
+2020-11-01,Boston Central,Home & Living,24358
+2020-12-01,Boston Central,Home & Living,22145
+2021-01-01,Boston Central,Home & Living,19468
+2021-02-01,Boston Central,Home & Living,23881
+2021-03-01,Boston Central,Home & Living,21383
+2021-04-01,Boston Central,Home & Living,25697
+2021-05-01,Boston Central,Home & Living,27238
+2021-06-01,Boston Central,Home & Living,24063
+2021-07-01,Boston Central,Home & Living,28382
+2021-08-01,Boston Central,Home & Living,27979
+2021-09-01,Boston Central,Home & Living,29425
+2021-10-01,Boston Central,Home & Living,32115
+2021-11-01,Boston Central,Home & Living,28272
+2021-12-01,Boston Central,Home & Living,27585
+2022-01-01,Boston Central,Home & Living,27523
+2022-02-01,Boston Central,Home & Living,27756
+2022-03-01,Boston Central,Home & Living,29191
+2022-04-01,Boston Central,Home & Living,29858
+2022-05-01,Boston Central,Home & Living,29439
+2022-06-01,Boston Central,Home & Living,30135
+2022-07-01,Boston Central,Home & Living,27997
+2022-08-01,Boston Central,Home & Living,30278
+2022-09-01,Boston Central,Home & Living,26165
+2022-10-01,Boston Central,Home & Living,31400
+2022-11-01,Boston Central,Home & Living,26436
+2022-12-01,Boston Central,Home & Living,22675
+2018-01-01,Austin North,Groceries,35906
+2018-02-01,Austin North,Groceries,34535
+2018-03-01,Austin North,Groceries,30950
+2018-04-01,Austin North,Groceries,34765
+2018-05-01,Austin North,Groceries,36582
+2018-06-01,Austin North,Groceries,37541
+2018-07-01,Austin North,Groceries,36782
+2018-08-01,Austin North,Groceries,38126
+2018-09-01,Austin North,Groceries,41971
+2018-10-01,Austin North,Groceries,40995
+2018-11-01,Austin North,Groceries,36045
+2018-12-01,Austin North,Groceries,36666
+2019-01-01,Austin North,Groceries,37427
+2019-02-01,Austin North,Groceries,33822
+2019-03-01,Austin North,Groceries,34196
+2019-04-01,Austin North,Groceries,33094
+2019-05-01,Austin North,Groceries,33415
+2019-06-01,Austin North,Groceries,37791
+2019-07-01,Austin North,Groceries,32551
+2019-08-01,Austin North,Groceries,31423
+2019-09-01,Austin North,Groceries,34446
+2019-10-01,Austin North,Groceries,30990
+2019-11-01,Austin North,Groceries,31962
+2019-12-01,Austin North,Groceries,28951
+2020-01-01,Austin North,Groceries,26151
+2020-02-01,Austin North,Groceries,30119
+2020-03-01,Austin North,Groceries,25604
+2020-04-01,Austin North,Groceries,27318
+2020-05-01,Austin North,Groceries,26623
+2020-06-01,Austin North,Groceries,28353
+2020-07-01,Austin North,Groceries,26850
+2020-08-01,Austin North,Groceries,27833
+2020-09-01,Austin North,Groceries,25218
+2020-10-01,Austin North,Groceries,32708
+2020-11-01,Austin North,Groceries,26783
+2020-12-01,Austin North,Groceries,32158
+2021-01-01,Austin North,Groceries,30707
+2021-02-01,Austin North,Groceries,31407
+2021-03-01,Austin North,Groceries,32598
+2021-04-01,Austin North,Groceries,28919
+2021-05-01,Austin North,Groceries,35410
+2021-06-01,Austin North,Groceries,33240
+2021-07-01,Austin North,Groceries,37433
+2021-08-01,Austin North,Groceries,35408
+2021-09-01,Austin North,Groceries,35589
+2021-10-01,Austin North,Groceries,34296
+2021-11-01,Austin North,Groceries,35789
+2021-12-01,Austin North,Groceries,38494
+2022-01-01,Austin North,Groceries,35244
+2022-02-01,Austin North,Groceries,33963
+2022-03-01,Austin North,Groceries,36187
+2022-04-01,Austin North,Groceries,39413
+2022-05-01,Austin North,Groceries,41005
+2022-06-01,Austin North,Groceries,35683
+2022-07-01,Austin North,Groceries,33431
+2022-08-01,Austin North,Groceries,35242
+2022-09-01,Austin North,Groceries,35619
+2022-10-01,Austin North,Groceries,35672
+2022-11-01,Austin North,Groceries,38011
+2022-12-01,Austin North,Groceries,33400
+2018-01-01,Austin North,Electronics,34310
+2018-02-01,Austin North,Electronics,41447
+2018-03-01,Austin North,Electronics,37073
+2018-04-01,Austin North,Electronics,36710
+2018-05-01,Austin North,Electronics,39471
+2018-06-01,Austin North,Electronics,44290
+2018-07-01,Austin North,Electronics,41017
+2018-08-01,Austin North,Electronics,39595
+2018-09-01,Austin North,Electronics,39161
+2018-10-01,Austin North,Electronics,41710
+2018-11-01,Austin North,Electronics,37972
+2018-12-01,Austin North,Electronics,39277
+2019-01-01,Austin North,Electronics,44754
+2019-02-01,Austin North,Electronics,43984
+2019-03-01,Austin North,Electronics,40640
+2019-04-01,Austin North,Electronics,39424
+2019-05-01,Austin North,Electronics,39845
+2019-06-01,Austin North,Electronics,43726
+2019-07-01,Austin North,Electronics,39089
+2019-08-01,Austin North,Electronics,39315
+2019-09-01,Austin North,Electronics,36293
+2019-10-01,Austin North,Electronics,36029
+2019-11-01,Austin North,Electronics,36438
+2019-12-01,Austin North,Electronics,34678
+2020-01-01,Austin North,Electronics,29978
+2020-02-01,Austin North,Electronics,35762
+2020-03-01,Austin North,Electronics,31495
+2020-04-01,Austin North,Electronics,36580
+2020-05-01,Austin North,Electronics,33481
+2020-06-01,Austin North,Electronics,32122
+2020-07-01,Austin North,Electronics,32859
+2020-08-01,Austin North,Electronics,31890
+2020-09-01,Austin North,Electronics,31385
+2020-10-01,Austin North,Electronics,33141
+2020-11-01,Austin North,Electronics,34971
+2020-12-01,Austin North,Electronics,32844
+2021-01-01,Austin North,Electronics,33181
+2021-02-01,Austin North,Electronics,34432
+2021-03-01,Austin North,Electronics,37811
+2021-04-01,Austin North,Electronics,39603
+2021-05-01,Austin North,Electronics,38219
+2021-06-01,Austin North,Electronics,39442
+2021-07-01,Austin North,Electronics,37771
+2021-08-01,Austin North,Electronics,41482
+2021-09-01,Austin North,Electronics,41459
+2021-10-01,Austin North,Electronics,39477
+2021-11-01,Austin North,Electronics,37762
+2021-12-01,Austin North,Electronics,39226
+2022-01-01,Austin North,Electronics,40539
+2022-02-01,Austin North,Electronics,44286
+2022-03-01,Austin North,Electronics,45025
+2022-04-01,Austin North,Electronics,40872
+2022-05-01,Austin North,Electronics,40645
+2022-06-01,Austin North,Electronics,41579
+2022-07-01,Austin North,Electronics,40571
+2022-08-01,Austin North,Electronics,41808
+2022-09-01,Austin North,Electronics,38223
+2022-10-01,Austin North,Electronics,40433
+2022-11-01,Austin North,Electronics,37281
+2022-12-01,Austin North,Electronics,38672
+2018-01-01,Austin North,Home & Living,37563
+2018-02-01,Austin North,Home & Living,37325
+2018-03-01,Austin North,Home & Living,37949
+2018-04-01,Austin North,Home & Living,43134
+2018-05-01,Austin North,Home & Living,38054
+2018-06-01,Austin North,Home & Living,40333
+2018-07-01,Austin North,Home & Living,41274
+2018-08-01,Austin North,Home & Living,39666
+2018-09-01,Austin North,Home & Living,38685
+2018-10-01,Austin North,Home & Living,42273
+2018-11-01,Austin North,Home & Living,45405
+2018-12-01,Austin North,Home & Living,42502
+2019-01-01,Austin North,Home & Living,41663
+2019-02-01,Austin North,Home & Living,41318
+2019-03-01,Austin North,Home & Living,40195
+2019-04-01,Austin North,Home & Living,42538
+2019-05-01,Austin North,Home & Living,38532
+2019-06-01,Austin North,Home & Living,36131
+2019-07-01,Austin North,Home & Living,34931
+2019-08-01,Austin North,Home & Living,37468
+2019-09-01,Austin North,Home & Living,38634
+2019-10-01,Austin North,Home & Living,36197
+2019-11-01,Austin North,Home & Living,34323
+2019-12-01,Austin North,Home & Living,35158
+2020-01-01,Austin North,Home & Living,33960
+2020-02-01,Austin North,Home & Living,34669
+2020-03-01,Austin North,Home & Living,35193
+2020-04-01,Austin North,Home & Living,30264
+2020-05-01,Austin North,Home & Living,27243
+2020-06-01,Austin North,Home & Living,31092
+2020-07-01,Austin North,Home & Living,29756
+2020-08-01,Austin North,Home & Living,33586
+2020-09-01,Austin North,Home & Living,30724
+2020-10-01,Austin North,Home & Living,28789
+2020-11-01,Austin North,Home & Living,31868
+2020-12-01,Austin North,Home & Living,30604
+2021-01-01,Austin North,Home & Living,37421
+2021-02-01,Austin North,Home & Living,35901
+2021-03-01,Austin North,Home & Living,37017
+2021-04-01,Austin North,Home & Living,37585
+2021-05-01,Austin North,Home & Living,38991
+2021-06-01,Austin North,Home & Living,40361
+2021-07-01,Austin North,Home & Living,37766
+2021-08-01,Austin North,Home & Living,36703
+2021-09-01,Austin North,Home & Living,38477
+2021-10-01,Austin North,Home & Living,40621
+2021-11-01,Austin North,Home & Living,36024
+2021-12-01,Austin North,Home & Living,43768
+2022-01-01,Austin North,Home & Living,37899
+2022-02-01,Austin North,Home & Living,42975
+2022-03-01,Austin North,Home & Living,41399
+2022-04-01,Austin North,Home & Living,42136
+2022-05-01,Austin North,Home & Living,40332
+2022-06-01,Austin North,Home & Living,41305
+2022-07-01,Austin North,Home & Living,39418
+2022-08-01,Austin North,Home & Living,38648
+2022-09-01,Austin North,Home & Living,37290
+2022-10-01,Austin North,Home & Living,41401
+2022-11-01,Austin North,Home & Living,38308
+2022-12-01,Austin North,Home & Living,37198
+2018-01-01,San Diego East,Groceries,25733
+2018-02-01,San Diego East,Groceries,20532
+2018-03-01,San Diego East,Groceries,21244
+2018-04-01,San Diego East,Groceries,22460
+2018-05-01,San Diego East,Groceries,20087
+2018-06-01,San Diego East,Groceries,23884
+2018-07-01,San Diego East,Groceries,23926
+2018-08-01,San Diego East,Groceries,26150
+2018-09-01,San Diego East,Groceries,26824
+2018-10-01,San Diego East,Groceries,30061
+2018-11-01,San Diego East,Groceries,28252
+2018-12-01,San Diego East,Groceries,25113
+2019-01-01,San Diego East,Groceries,24260
+2019-02-01,San Diego East,Groceries,26711
+2019-03-01,San Diego East,Groceries,22645
+2019-04-01,San Diego East,Groceries,28407
+2019-05-01,San Diego East,Groceries,26476
+2019-06-01,San Diego East,Groceries,22481
+2019-07-01,San Diego East,Groceries,19242
+2019-08-01,San Diego East,Groceries,24592
+2019-09-01,San Diego East,Groceries,20858
+2019-10-01,San Diego East,Groceries,22772
+2019-11-01,San Diego East,Groceries,16343
+2019-12-01,San Diego East,Groceries,17616
+2020-01-01,San Diego East,Groceries,18172
+2020-02-01,San Diego East,Groceries,17684
+2020-03-01,San Diego East,Groceries,16214
+2020-04-01,San Diego East,Groceries,17992
+2020-05-01,San Diego East,Groceries,14361
+2020-06-01,San Diego East,Groceries,16084
+2020-07-01,San Diego East,Groceries,16610
+2020-08-01,San Diego East,Groceries,17525
+2020-09-01,San Diego East,Groceries,18170
+2020-10-01,San Diego East,Groceries,14865
+2020-11-01,San Diego East,Groceries,14522
+2020-12-01,San Diego East,Groceries,20717
+2021-01-01,San Diego East,Groceries,19479
+2021-02-01,San Diego East,Groceries,18035
+2021-03-01,San Diego East,Groceries,23398
+2021-04-01,San Diego East,Groceries,21318
+2021-05-01,San Diego East,Groceries,24243
+2021-06-01,San Diego East,Groceries,22804
+2021-07-01,San Diego East,Groceries,27541
+2021-08-01,San Diego East,Groceries,27628
+2021-09-01,San Diego East,Groceries,24247
+2021-10-01,San Diego East,Groceries,27229
+2021-11-01,San Diego East,Groceries,27018
+2021-12-01,San Diego East,Groceries,28794
+2022-01-01,San Diego East,Groceries,24337
+2022-02-01,San Diego East,Groceries,27723
+2022-03-01,San Diego East,Groceries,28426
+2022-04-01,San Diego East,Groceries,22623
+2022-05-01,San Diego East,Groceries,23483
+2022-06-01,San Diego East,Groceries,21366
+2022-07-01,San Diego East,Groceries,24396
+2022-08-01,San Diego East,Groceries,25770
+2022-09-01,San Diego East,Groceries,26663
+2022-10-01,San Diego East,Groceries,23072
+2022-11-01,San Diego East,Groceries,25406
+2022-12-01,San Diego East,Groceries,18593
+2018-01-01,San Diego East,Electronics,30291
+2018-02-01,San Diego East,Electronics,32708
+2018-03-01,San Diego East,Electronics,31328
+2018-04-01,San Diego East,Electronics,29296
+2018-05-01,San Diego East,Electronics,33289
+2018-06-01,San Diego East,Electronics,34709
+2018-07-01,San Diego East,Electronics,36657
+2018-08-01,San Diego East,Electronics,31934
+2018-09-01,San Diego East,Electronics,34861
+2018-10-01,San Diego East,Electronics,35125
+2018-11-01,San Diego East,Electronics,33116
+2018-12-01,San Diego East,Electronics,36209
+2019-01-01,San Diego East,Electronics,36518
+2019-02-01,San Diego East,Electronics,34112
+2019-03-01,San Diego East,Electronics,38363
+2019-04-01,San Diego East,Electronics,33073
+2019-05-01,San Diego East,Electronics,32191
+2019-06-01,San Diego East,Electronics,31435
+2019-07-01,San Diego East,Electronics,30005
+2019-08-01,San Diego East,Electronics,29733
+2019-09-01,San Diego East,Electronics,27186
+2019-10-01,San Diego East,Electronics,28880
+2019-11-01,San Diego East,Electronics,28614
+2019-12-01,San Diego East,Electronics,23216
+2020-01-01,San Diego East,Electronics,26925
+2020-02-01,San Diego East,Electronics,26641
+2020-03-01,San Diego East,Electronics,27111
+2020-04-01,San Diego East,Electronics,28123
+2020-05-01,San Diego East,Electronics,27166
+2020-06-01,San Diego East,Electronics,24095
+2020-07-01,San Diego East,Electronics,23863
+2020-08-01,San Diego East,Electronics,26622
+2020-09-01,San Diego East,Electronics,24619
+2020-10-01,San Diego East,Electronics,23625
+2020-11-01,San Diego East,Electronics,31305
+2020-12-01,San Diego East,Electronics,26507
+2021-01-01,San Diego East,Electronics,26529
+2021-02-01,San Diego East,Electronics,24115
+2021-03-01,San Diego East,Electronics,30966
+2021-04-01,San Diego East,Electronics,28078
+2021-05-01,San Diego East,Electronics,30909
+2021-06-01,San Diego East,Electronics,33573
+2021-07-01,San Diego East,Electronics,30442
+2021-08-01,San Diego East,Electronics,33243
+2021-09-01,San Diego East,Electronics,36759
+2021-10-01,San Diego East,Electronics,29339
+2021-11-01,San Diego East,Electronics,33073
+2021-12-01,San Diego East,Electronics,33214
+2022-01-01,San Diego East,Electronics,34860
+2022-02-01,San Diego East,Electronics,35223
+2022-03-01,San Diego East,Electronics,33153
+2022-04-01,San Diego East,Electronics,33798
+2022-05-01,San Diego East,Electronics,33270
+2022-06-01,San Diego East,Electronics,33710
+2022-07-01,San Diego East,Electronics,34339
+2022-08-01,San Diego East,Electronics,35123
+2022-09-01,San Diego East,Electronics,34736
+2022-10-01,San Diego East,Electronics,33198
+2022-11-01,San Diego East,Electronics,29367
+2022-12-01,San Diego East,Electronics,30313
+2018-01-01,San Diego East,Home & Living,38538
+2018-02-01,San Diego East,Home & Living,37946
+2018-03-01,San Diego East,Home & Living,31924
+2018-04-01,San Diego East,Home & Living,38809
+2018-05-01,San Diego East,Home & Living,38774
+2018-06-01,San Diego East,Home & Living,37373
+2018-07-01,San Diego East,Home & Living,35630
+2018-08-01,San Diego East,Home & Living,40056
+2018-09-01,San Diego East,Home & Living,34998
+2018-10-01,San Diego East,Home & Living,39282
+2018-11-01,San Diego East,Home & Living,38133
+2018-12-01,San Diego East,Home & Living,36765
+2019-01-01,San Diego East,Home & Living,41450
+2019-02-01,San Diego East,Home & Living,38660
+2019-03-01,San Diego East,Home & Living,38650
+2019-04-01,San Diego East,Home & Living,39576
+2019-05-01,San Diego East,Home & Living,37115
+2019-06-01,San Diego East,Home & Living,37338
+2019-07-01,San Diego East,Home & Living,37316
+2019-08-01,San Diego East,Home & Living,36034
+2019-09-01,San Diego East,Home & Living,34675
+2019-10-01,San Diego East,Home & Living,36878
+2019-11-01,San Diego East,Home & Living,35032
+2019-12-01,San Diego East,Home & Living,31659
+2020-01-01,San Diego East,Home & Living,29358
+2020-02-01,San Diego East,Home & Living,31883
+2020-03-01,San Diego East,Home & Living,30562
+2020-04-01,San Diego East,Home & Living,33180
+2020-05-01,San Diego East,Home & Living,31487
+2020-06-01,San Diego East,Home & Living,30913
+2020-07-01,San Diego East,Home & Living,29411
+2020-08-01,San Diego East,Home & Living,27760
+2020-09-01,San Diego East,Home & Living,29367
+2020-10-01,San Diego East,Home & Living,31084
+2020-11-01,San Diego East,Home & Living,27147
+2020-12-01,San Diego East,Home & Living,33661
+2021-01-01,San Diego East,Home & Living,35965
+2021-02-01,San Diego East,Home & Living,28658
+2021-03-01,San Diego East,Home & Living,30512
+2021-04-01,San Diego East,Home & Living,34562
+2021-05-01,San Diego East,Home & Living,33735
+2021-06-01,San Diego East,Home & Living,36206
+2021-07-01,San Diego East,Home & Living,36292
+2021-08-01,San Diego East,Home & Living,35085
+2021-09-01,San Diego East,Home & Living,40337
+2021-10-01,San Diego East,Home & Living,39231
+2021-11-01,San Diego East,Home & Living,37623
+2021-12-01,San Diego East,Home & Living,42083
+2022-01-01,San Diego East,Home & Living,38266
+2022-02-01,San Diego East,Home & Living,36884
+2022-03-01,San Diego East,Home & Living,39692
+2022-04-01,San Diego East,Home & Living,39862
+2022-05-01,San Diego East,Home & Living,39929
+2022-06-01,San Diego East,Home & Living,39853
+2022-07-01,San Diego East,Home & Living,38984
+2022-08-01,San Diego East,Home & Living,38302
+2022-09-01,San Diego East,Home & Living,35527
+2022-10-01,San Diego East,Home & Living,34578
+2022-11-01,San Diego East,Home & Living,36649
+2022-12-01,San Diego East,Home & Living,34856
